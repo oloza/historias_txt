@@ -4,3 +4,4 @@
 4. add from github again
 5. me too from 4
 6. this is a new file with ssh config :)
+7. this line is from fix-type
